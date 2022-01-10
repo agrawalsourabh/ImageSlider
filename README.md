@@ -7,8 +7,8 @@
 ### `Run the project`
 
 ```
-    git clone "https://github.com/agrawalsourabh/ImageSlider.git"
-    cd ImageSlider
-    npm install
-    npm run
+    $ git clone "https://github.com/agrawalsourabh/ImageSlider.git"
+    $ cd ImageSlider
+    $ npm install
+    $ npm run
 ```
